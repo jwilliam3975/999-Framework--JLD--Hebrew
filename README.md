@@ -1,3 +1,5 @@
+<img width="191" height="20" alt="image" src="https://github.com/user-attachments/assets/b556f98b-5eac-4131-8d8f-b08a9d6ed5bc" />
+
 Symbolic-Linguistic Frameworks
 
 This repository contains multiple symbolic-linguistic frameworks developed to reinterpret ancient scripts and systems as architectural maps of meaning. Each framework is represented in the included Excel file. Updates will refine charts, add interpretations, and expand cross-comparisons across traditions.
